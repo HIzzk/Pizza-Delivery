@@ -1,5 +1,3 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+This repository contains a full stack web application that runs via an SQL database connected to a SpringBoot controller and a Vue front end. There is also a Java service that calls a free nutrition API.
+
+Powered by Nutritionix
